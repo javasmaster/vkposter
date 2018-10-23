@@ -1,0 +1,227 @@
+ 2018-09-07 17:37:23 -> 57059 :success 
+2018-09-07 17:42:27 -> 373 :success 
+2018-09-07 17:47:27 -> 1379 :success 
+2018-09-07 17:52:28 -> 417 :success 
+2018-09-07 17:57:29 -> 2804 :success 
+2018-09-08 18:55:07 -> 220 :success 
+2018-09-08 19:00:07 -> 100 :success 
+2018-09-08 19:05:07 -> 1374 :success 
+2018-09-08 19:10:08 -> 1526 :success 
+2018-09-08 19:15:08 -> 121 :success 
+2018-09-11 13:36:27 -> 40 :success 
+2018-09-11 13:41:28 -> Access denied: user should be group editor :error 
+2018-09-11 13:41:28 -> 6947 :success 
+2018-09-11 13:44:21 -> Access denied: user should be group editor :error 
+2018-09-11 13:44:21 -> 0 :success 
+2018-09-11 13:49:22 -> 0 :success 
+2018-09-11 13:54:22 -> 0 :success 
+2018-09-11 13:59:22 -> 0 :success 
+2018-09-14 05:44:26 -> Access denied: user should be group editor :error 
+2018-09-14 05:44:26 -> 0 :success 
+2018-09-14 05:44:48 -> Access denied: user should be group editor :error 
+2018-09-14 05:44:48 -> 0 :success 
+2018-09-14 05:50:57 -> 25 :success 
+2018-09-14 05:55:57 -> 0 :success 
+2018-09-14 06:00:58 -> 0 :success 
+2018-09-14 06:05:58 -> 0 :success 
+2018-09-14 06:10:58 -> 0 :success 
+2018-09-14 07:16:27 -> 65 :success 
+2018-09-14 07:21:27 -> 0 :success 
+2018-09-14 07:26:27 -> 0 :success 
+2018-09-14 07:31:27 -> 0 :success 
+2018-09-14 07:36:28 -> 0 :success 
+2018-09-14 08:00:01 -> 270 :success 
+2018-09-14 08:11:13 -> 0 :success 
+2018-09-14 08:16:13 -> 0 :success 
+2018-09-14 08:21:14 -> 0 :success 
+2018-09-14 08:43:26 -> 0 :success 
+2018-09-14 08:48:26 -> 0 :success 
+2018-09-14 08:53:26 -> 0 :success 
+2018-09-14 09:33:26 -> 0 :success 
+2018-09-14 09:38:26 -> 0 :success 
+2018-09-14 09:43:26 -> 0 :success 
+2018-09-14 20:33:36 -> 87 :success 
+2018-09-14 20:38:37 -> 0 :success 
+2018-09-14 20:43:37 -> 0 :success 
+2018-09-15 18:57:42 -> 85 :success 
+2018-09-15 19:02:42 -> 114 :success 
+2018-09-15 19:07:43 -> 152 :success 
+2018-09-17 18:56:59 -> One of the parameters specified was missing or invalid: owner_id not integer :error 
+2018-09-17 18:57:00 -> 391 :success 
+2018-09-17 19:02:00 -> 392 :success 
+2018-09-19 15:49:01 -> One of the parameters specified was missing or invalid: owner_id not integer :error 
+2018-09-19 15:49:02 -> 393 :success 
+2018-09-19 15:49:12 -> 394 :success 
+2018-09-19 15:49:52 -> One of the parameters specified was missing or invalid: owner_id not integer :error 
+2018-09-19 15:49:52 -> 395 :success 
+2018-09-19 15:50:02 -> 396 :success 
+2018-09-19 15:52:56 -> User authorization failed: user revoke access for this token. :error 
+2018-09-19 15:52:56 -> User authorization failed: user revoke access for this token. :error 
+2018-09-19 15:52:56 -> User authorization failed: user revoke access for this token. :error 
+2018-09-19 15:55:14 -> User authorization failed: user revoke access for this token. :error 
+2018-09-19 15:55:14 -> User authorization failed: user revoke access for this token. :error 
+2018-09-19 15:55:15 -> User authorization failed: user revoke access for this token. :error 
+2018-09-19 15:55:50 -> User authorization failed: user revoke access for this token. :error 
+2018-09-19 15:55:50 -> User authorization failed: user revoke access for this token. :error 
+2018-09-19 15:55:50 -> User authorization failed: user revoke access for this token. :error 
+2018-09-19 16:11:32 -> 1378 :success 
+2018-09-19 16:11:43 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-19 16:12:36 -> 1379 :success 
+2018-09-19 16:12:46 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-19 16:15:20 -> 1380 :success 
+2018-09-19 16:15:30 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-19 16:16:06 -> 1381 :success 
+2018-09-19 16:16:17 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-19 16:17:00 -> 1382 :success 
+2018-09-19 16:17:10 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-19 16:19:09 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-19 16:19:09 -> 22444 :success 
+2018-09-19 16:20:49 -> 59160 :success 
+2018-09-19 16:22:30 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-19 16:22:30 -> 4706 :success 
+2018-09-19 16:24:10 -> 7060 :success 
+2018-09-19 16:25:51 -> 3245 :success 
+2018-09-19 16:27:31 -> 4296 :success 
+2018-09-19 16:29:11 -> 125 :success 
+2018-09-19 16:30:51 -> 71 :success 
+2018-09-19 17:22:53 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-19 17:22:53 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-19 17:22:53 -> 579 :success 
+2018-09-19 17:24:34 -> 1226 :success 
+2018-09-19 17:26:14 -> 1169 :success 
+2018-09-19 17:27:54 -> 1669 :success 
+2018-09-19 17:29:34 -> 2110 :success 
+2018-09-19 17:31:15 -> 1349 :success 
+2018-09-19 17:32:55 -> 57128 :success 
+2018-09-19 17:34:35 -> 1776 :success 
+2018-09-21 11:22:55 -> One of the parameters specified was missing or invalid: owner_id not integer :error 
+2018-09-21 11:22:55 -> 401 :success 
+2018-09-21 11:23:01 -> One of the parameters specified was missing or invalid: owner_id not integer :error 
+2018-09-21 11:23:01 -> 0 :success 
+2018-09-21 11:24:35 -> 402 :success 
+2018-09-21 11:24:41 -> 403 :success 
+2018-09-21 11:26:16 -> 404 :success 
+2018-09-21 11:26:22 -> 405 :success 
+2018-09-21 11:27:56 -> 406 :success 
+2018-09-21 11:28:02 -> 407 :success 
+2018-09-21 11:28:26 -> One of the parameters specified was missing or invalid: owner_id not integer :error 
+2018-09-21 11:28:26 -> 0 :success 
+2018-09-21 11:29:37 -> 408 :success 
+2018-09-21 11:29:44 -> 409 :success 
+2018-09-21 11:31:18 -> 410 :success 
+2018-09-21 11:31:24 -> 411 :success 
+2018-09-21 11:31:36 -> 88 :success 
+2018-09-21 11:31:49 -> 89 :success 
+2018-09-21 11:32:59 -> 412 :success 
+2018-09-21 11:33:04 -> 413 :success 
+2018-09-21 11:33:24 -> One of the parameters specified was missing or invalid: owner_id not integer :error 
+2018-09-21 11:33:24 -> 0 :success 
+2018-09-21 11:34:25 -> One of the parameters specified was missing or invalid: owner_id not integer :error 
+2018-09-21 11:34:26 -> 0 :success 
+2018-09-21 11:34:46 -> 414 :success 
+2018-09-21 12:48:00 -> 45799 :success 
+2018-09-21 12:48:10 -> 59165 :success 
+2018-09-21 12:49:59 -> 45800 :success 
+2018-09-21 12:51:40 -> 59166 :success 
+2018-09-21 12:53:21 -> 10584 :success 
+2018-09-21 12:55:55 -> 19439 :success 
+2018-09-21 12:57:35 -> 4171 :success 
+2018-09-21 12:59:15 -> 7866 :success 
+2018-09-21 13:00:55 -> 1544 :success 
+2018-09-21 13:02:36 -> 1538 :success 
+2018-09-21 13:04:16 -> 22355 :success 
+2018-09-21 13:05:56 -> 3773 :success 
+2018-09-21 13:07:37 -> 9401 :success 
+2018-09-21 13:09:17 -> 8740 :success 
+2018-09-21 13:10:57 -> 8709 :success 
+2018-09-21 16:19:03 -> 14598 :success 
+2018-09-21 16:20:43 -> 1137 :success 
+2018-09-21 16:22:23 -> 10760 :success 
+2018-09-21 16:24:04 -> 624 :success 
+2018-09-21 16:25:44 -> 2657 :success 
+2018-09-21 16:27:24 -> 3007 :success 
+2018-09-21 16:29:04 -> 7597 :success 
+2018-09-21 16:30:45 -> 14912 :success 
+2018-09-21 16:32:25 -> 768 :success 
+2018-09-21 16:34:05 -> 1358 :success 
+2018-09-21 19:30:53 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-21 19:30:53 -> 1238 :success 
+2018-09-21 19:32:33 -> 1356 :success 
+2018-09-21 19:34:13 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-21 19:34:14 -> 384 :success 
+2018-09-21 19:35:54 -> 544 :success 
+2018-09-21 19:37:34 -> 1253 :success 
+2018-09-21 19:39:14 -> 1023 :success 
+2018-09-21 19:40:55 -> 972 :success 
+2018-09-21 19:42:35 -> 392 :success 
+2018-09-23 19:54:21 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-23 19:54:21 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-23 19:54:21 -> 340 :success 
+2018-09-23 19:56:02 -> 653 :success 
+2018-09-23 19:57:42 -> 309 :success 
+2018-09-23 19:59:22 -> 104 :success 
+2018-09-23 20:01:02 -> 273 :success 
+2018-09-23 20:02:43 -> 65 :success 
+2018-09-23 20:04:23 -> 257 :success 
+2018-09-23 20:06:03 -> 161 :success 
+2018-09-25 05:57:08 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 05:57:08 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 05:57:09 -> 195 :success 
+2018-09-25 05:58:49 -> 249 :success 
+2018-09-25 06:00:29 -> 549 :success 
+2018-09-25 06:02:09 -> 60 :success 
+2018-09-25 06:03:50 -> 235 :success 
+2018-09-25 06:05:30 -> 59 :success 
+2018-09-25 06:07:10 -> 555 :success 
+2018-09-25 06:08:50 -> 416 :success 
+2018-09-25 06:27:23 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 06:27:23 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 06:27:23 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 06:27:23 -> 13 :success 
+2018-09-25 06:29:04 -> 29 :success 
+2018-09-25 06:30:44 -> 655 :success 
+2018-09-25 06:32:24 -> 18 :success 
+2018-09-25 06:34:04 -> 33 :success 
+2018-09-25 06:35:45 -> 167 :success 
+2018-09-25 06:37:25 -> 7 :success 
+2018-09-25 11:42:52 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 11:42:52 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 11:42:52 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 11:42:52 -> 80 :success 
+2018-09-25 11:44:33 -> 72 :success 
+2018-09-25 11:46:13 -> 33 :success 
+2018-09-25 11:47:53 -> 23 :success 
+2018-09-25 11:49:33 -> 22 :success 
+2018-09-25 11:51:14 -> 3173 :success 
+2018-09-25 11:52:54 -> 31 :success 
+2018-09-25 18:05:17 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 18:05:17 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 18:05:18 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 18:05:18 -> 15 :success 
+2018-09-25 18:05:22 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 18:05:22 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 18:05:23 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-25 18:05:23 -> 85 :success 
+2018-09-25 18:06:58 -> 86 :success 
+2018-09-25 18:07:03 -> 14 :success 
+2018-09-25 18:08:38 -> 15 :success 
+2018-09-25 18:08:43 -> 417 :success 
+2018-09-25 18:10:19 -> 418 :success 
+2018-09-25 18:10:24 -> 26 :success 
+2018-09-25 18:11:59 -> 27 :success 
+2018-09-25 18:12:04 -> 101 :success 
+2018-09-25 18:13:39 -> 102 :success 
+2018-09-25 18:13:44 -> 291 :success 
+2018-09-25 18:15:19 -> 292 :success 
+2018-09-25 18:15:24 -> 0 :success 
+2018-09-27 06:00:45 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-27 06:00:45 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-27 06:00:45 -> Access to adding post denied: access to the wall is closed :error 
+2018-09-27 06:00:45 -> 0 :success 
+2018-09-27 06:02:26 -> 0 :success 
+2018-09-27 06:04:06 -> 0 :success 
+2018-09-27 06:05:46 -> 0 :success 
+2018-09-27 06:07:26 -> 0 :success 
+2018-09-27 06:09:06 -> 0 :success 
+2018-09-27 06:10:47 -> 0 :success 
+2018-10-03 19:16:57 -> User authorization failed: invalid access_token (4). :error 2018-10-03 19:16:57 -> User authorization failed: invalid access_token (4). :error 2018-10-03 19:16:57 -> User authorization failed: invalid access_token (4). :error 2018-10-03 19:16:57 -> User authorization failed: invalid access_token (4). :error 2018-10-03 19:16:57 -> User authorization failed: invalid access_token (4). :error 2018-10-03 19:16:58 -> User authorization failed: invalid access_token (4). :error 2018-10-03 19:16:58 -> User authorization failed: invalid access_token (4). :error 2018-10-03 19:16:58 -> User authorization failed: invalid access_token (4). :error 2018-10-03 19:16:58 -> User authorization failed: invalid access_token (4). :error 2018-10-03 19:16:58 -> User authorization failed: invalid access_token (4). :error 2018-10-03 19:20:04 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:20:05 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:20:05 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:20:05 -> 45967 :success 2018-10-03 19:20:48 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:20:49 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:20:49 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:20:49 -> 59227 :success 2018-10-03 19:21:45 -> 59228 :success 2018-10-03 19:22:29 -> 10604 :success 2018-10-03 19:23:26 -> 10605 :success 2018-10-03 19:24:10 -> 19491 :success 2018-10-03 19:25:06 -> 19492 :success 2018-10-03 19:25:50 -> 4192 :success 2018-10-03 19:26:46 -> 4193 :success 2018-10-03 19:27:30 -> 7885 :success 2018-10-03 19:28:26 -> 7886 :success 2018-10-03 19:29:11 -> 1550 :success 2018-10-03 19:30:07 -> 1551 :success 2018-10-03 19:30:51 -> 1541 :success 2018-10-03 19:36:15 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:36:15 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:36:15 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:36:15 -> 22429 :success 2018-10-03 19:37:55 -> 3779 :success 2018-10-03 19:39:36 -> 8748 :success 2018-10-03 19:41:16 -> 9404 :success 2018-10-03 19:42:56 -> 2665 :success 2018-10-03 19:44:36 -> 14622 :success 2018-10-03 19:46:16 -> 8721 :success 2018-10-03 19:58:58 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:58:58 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:58:58 -> Access to adding post denied: access to the wall is closed :error 2018-10-03 19:58:59 -> 1142 :success 2018-10-03 20:00:39 -> 10779 :success 2018-10-03 20:02:19 -> 630 :success 2018-10-03 20:03:59 -> 3014 :success 2018-10-03 20:05:39 -> 7622 :success 2018-10-03 20:07:20 -> 14939 :success 2018-10-03 20:09:00 -> 772 :success 2018-10-04 08:17:35 -> Access to adding post denied: access to the wall is closed :error 2018-10-04 08:17:35 -> Access to adding post denied: access to the wall is closed :error 2018-10-04 08:17:36 -> Access to adding post denied: access to the wall is closed :error 2018-10-04 08:17:36 -> 1374 :success 2018-10-04 08:19:16 -> Access to adding post denied: access to the wall is closed :error 2018-10-04 08:19:16 -> 1241 :success 2018-10-04 08:20:57 -> 1361 :success 2018-10-04 08:22:37 -> Access to adding post denied: access to the wall is closed :error 2018-10-04 08:22:37 -> 388 :success 2018-10-04 08:24:17 -> 545 :success 2018-10-06 17:49:48 -> Access to adding post denied: access to the wall is closed :error 2018-10-06 17:49:48 -> Access to adding post denied: access to the wall is closed :error 2018-10-06 17:49:48 -> Access to adding post denied: access to the wall is closed :error 2018-10-06 17:49:49 -> Access to adding post denied: access to the wall is closed :error 2018-10-06 17:49:49 -> Access to adding post denied: access to the wall is closed :error 2018-10-06 17:49:49 -> 1256 :success 2018-10-06 17:51:29 -> 1026 :success 2018-10-06 17:53:10 -> 977 :success 2018-10-06 17:54:50 -> 161 :success 2018-10-06 17:56:31 -> 341 :success 2018-10-16 08:10:42 -> Access to adding post denied: access to the wall is closed :error 2018-10-16 08:10:42 -> Access to adding post denied: access to the wall is closed :error 2018-10-16 08:10:42 -> Access to adding post denied: access to the wall is closed :error 2018-10-16 08:10:42 -> Access to adding post denied: access to the wall is closed :error 2018-10-16 08:10:42 -> Access to adding post denied: access to the wall is closed :error 2018-10-16 08:10:43 -> 659 :success 2018-10-16 08:12:23 -> 310 :success 2018-10-16 08:14:03 -> 107 :success 2018-10-19 15:59:17 -> Access to adding post denied: access to the wall is closed :error 2018-10-19 15:59:18 -> Access to adding post denied: access to the wall is closed :error 2018-10-19 15:59:18 -> Access to adding post denied: access to the wall is closed :error 2018-10-19 15:59:18 -> Access to adding post denied: access to the wall is closed :error 2018-10-19 15:59:19 -> Access to adding post denied: access to the wall is closed :error 2018-10-19 15:59:19 -> 277 :success 2018-10-19 16:00:59 -> 67 :success 2018-10-19 16:02:40 -> 169 :success 
